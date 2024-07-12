@@ -3,7 +3,8 @@
 # Authors:
 - [@LeDat2510](https://github.com/LeDat2510)
 # Giao diện
-## Giao diện đăng nhập:
-<img src="https://github.com/user-attachments/assets/3558139d-fb0e-4d55-8862-545a3bc591d3" width="400" height="600" />
+## Giao diện tải app:
+![Loading](https://github.com/user-attachments/assets/d618a546-1472-463b-b746-55f279afb8fb)
+
 
 
