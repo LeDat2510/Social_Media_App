@@ -26,9 +26,9 @@
 
 
 ## Giao diện chi tiết trang chat:
-![ChatUser1](https://github.com/user-attachments/assets/05addc78-f7b8-407d-8cf6-38d1f56b7dcd)
+![Chat1](https://github.com/user-attachments/assets/87634fed-d04a-4351-9559-c789e52300c6)
 
-![ChatUser2](https://github.com/user-attachments/assets/3959723c-3bad-4af3-8c3f-fd2af1a38245)
+![Chat2](https://github.com/user-attachments/assets/d5f15a7b-2bac-436f-b947-18a916dc0ce8)
 
 ## Giao diện đăng bài:
 ![Post](https://github.com/user-attachments/assets/72f40723-9887-436e-ae26-779d0a9d0e55)
