@@ -34,21 +34,23 @@
 ![Post](https://github.com/user-attachments/assets/72f40723-9887-436e-ae26-779d0a9d0e55)
 
 ## Giao diện thông báo:
-![Notification](https://github.com/user-attachments/assets/2d23942b-fa3b-454a-815b-23159190e030)
+![Notification](https://github.com/user-attachments/assets/422f1d45-3eb2-4834-b282-8243d7c9d182)
+
 
 ## Giao diện thông tin cá nhân:
-![Profile](https://github.com/user-attachments/assets/96318c19-88b9-4d5e-b30a-84c4dba3ff8d)
+![Profile](https://github.com/user-attachments/assets/f9899634-c00c-4905-a2ad-45c15ddd0681)
 
-![Menu](https://github.com/user-attachments/assets/090141e9-26a9-4dc9-8053-3e4e1fd0bec0)
+![Menu](https://github.com/user-attachments/assets/db398254-0148-404c-b142-06b0f743301f)
 
 ## Giao diện sửa thông tin:
-![EditProfile](https://github.com/user-attachments/assets/25f51317-bdac-490a-9502-c36f77bbc08f)
+![EditProfile](https://github.com/user-attachments/assets/79486e84-bcf2-4318-b552-eff08c5a332c)
+
 
 ## Giao diện sửa bài đăng:
 ![EditPost](https://github.com/user-attachments/assets/dfc648ff-e970-4925-b4f0-b80fd991843d)
 
 ## Giao diện xóa bài đăng:
-![DeletePost](https://github.com/user-attachments/assets/d29f80ab-3649-4f77-ae81-15657c335b4f)
+![DeletePost](https://github.com/user-attachments/assets/1f349689-b76a-4a96-9d99-3e01455e3b10)
 
 
 
