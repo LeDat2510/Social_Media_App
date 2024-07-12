@@ -22,7 +22,8 @@
 ![Reply](https://github.com/user-attachments/assets/b0c21847-4da3-4447-a992-4b085ebb1612)
 
 ## Giao diện trang chat:
-![Chat](https://github.com/user-attachments/assets/806d9639-ba77-4aa1-9b5c-5bef237a4824)
+![Chat](https://github.com/user-attachments/assets/bf5c6d49-02a9-4951-acbc-dda67b57eda0)
+
 
 ## Giao diện chi tiết trang chat:
 ![ChatUser1](https://github.com/user-attachments/assets/05addc78-f7b8-407d-8cf6-38d1f56b7dcd)
