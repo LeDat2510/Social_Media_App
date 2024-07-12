@@ -4,5 +4,6 @@
 - [@LeDat2510](https://github.com/LeDat2510)
 # Giao diện
 ## Giao diện đăng nhập:
-![Login](https://github.com/user-attachments/assets/3558139d-fb0e-4d55-8862-545a3bc591d3 | width=100 )
+<img src="https://github.com/user-attachments/assets/3558139d-fb0e-4d55-8862-545a3bc591d3" width="200" height="200" />
+
 
